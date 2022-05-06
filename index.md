@@ -1,4 +1,4 @@
-# Markdown del index de mi github page
+# Prácticas tercer trimestre
 
 [PR1001](pr1001.md)
 
